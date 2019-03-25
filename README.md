@@ -8,7 +8,16 @@ Matlab codes:
 - makeMontage.m
 
 
-Stimulus
+Stimulus:
+- ExpStim.pdf
+- Face.Stim.png
+- Object.Stim.png
+- Scene.Stim.png
+- StimPlot.pdf
+- HighresSubPlot.png
+- blocklist.csv
+- blockorder.txt
+- design.txt 
 
 High resolution rendered images for neuroimaging assignment
 
