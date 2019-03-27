@@ -1,25 +1,20 @@
 # Appendix-for-C84DAN
 
+This repository containts a variety of file types (E.g. .m / .pdf / .png / .txt / .html) corresponding to:
+- Participant Screening
+- Experiment design
+- Stimulus Presentation
+- Time Series and Cluster Analysis
+- Raw and Filtered time series data for comparison
+- Renedered high resolution images
 
-Matlab codes:
-- FFAlocalizer.m
-- Linear_Regression_For_Report.m
-- ProduceHighresSubPlot.m
-- makeMontage.m
+. It is important to note that some of the plots for the linear regression are from the coordinates provided by the FEAT report.html,
+      Matlab and FSL use a different coordinate systems whereby matlab is offset by +1
+      
+. For an overview of the analysis see Report.html      
+      
+. The documents in this repository were acquired and utilised as part of the assignment below...     
 
-
-Stimulus:
-- ExpStim.pdf
-- Face.Stim.png
-- Object.Stim.png
-- Scene.Stim.png
-- StimPlot.pdf
-- HighresSubPlot.png
-- blocklist.csv
-- blockorder.txt
-- design.txt 
-
-High resolution rendered images for neuroimaging assignment
 
 Assignment Abstract:
 
